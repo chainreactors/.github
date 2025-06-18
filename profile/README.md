@@ -39,8 +39,6 @@ ASM 是 chainreactor 的初衷, gogo/spray/zombie 之类的工具实际上都是
 
 ### Chain3 rem
 
-_预计在 2024 年内发布_
-
 rem 是全场景的流量/代理工具. 能用来解决绝大多数场景的代理与转发需求, 也用来打通 mapping 与 IoM, 让 mapping 能通过 rem+IoM 接入内网. rem 提供了在传输层, 应用层, 加密层, 混淆层的拓展接口. 可以被轻松修改为自定义特征, 也将是 IoM 在流量端的能力拓展.
 
 目前提供了 rem 的[设计文档](https://chainreactors.github.io/wiki/rem)
