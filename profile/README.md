@@ -22,8 +22,8 @@ IoM(`Internal of Malice`) 的定位是下一代 C2 框架, 同样以高度模块
 
 IoM 已经发布 v0.0.1, 这个版本离我们最初的 v0.0.1 设计目标还有很多遗憾, 但是为了防止闭门造车, 我们想提前从社区中接收反馈.
 
-!!! important "update v0.0.4"
-已经发布 v0.0.4, 实现了约 sliver 的 80%, cs 的 70%功能, 也有非常 sliver 与 cs 都没有的功能
+
+已经发布 v0.1.0, 实现了约 sliver 的 80%, cs 的 70%功能, 也有非常多 sliver 与 cs 都没有的功能
 
 目前提供了 IoM 的[设计文档](https://chainreactors.github.io/wiki/IoM/design)与[用户手册](https://chainreactors.github.io/wiki/IoM/manual) ,可以在[这里](https://github.com/chainreactors/malice-network)体验到 IoM 的 v0.0.4
 
