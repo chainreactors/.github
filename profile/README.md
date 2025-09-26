@@ -12,9 +12,8 @@
 
 目前我们的计划中有三条链式反应的链路, 分别对应了后渗透[IoM](https://chainreactors.github.io/wiki/IoM), 前渗透/信息收集([mapping](https://chainreactors.github.io/wiki/mapping)), 以及打通 IoM 与 mapping 的流量工具[rem](https://chainreactors.github.io/wiki/rem)
 
-### Chain1 IoM
+### Chain1 [IoM](https://chainreactors.github.io/wiki/IoM)
 
-[IoM](IoM)
 
 IoM(`Internal of Malice`) 的定位是下一代 C2 框架, 同样以高度模块化与可拓展性为核心设计理念. 基于这个理念去实现插件化的 OPSEC, 插件化的社区生态, 插件化的一切.
 
@@ -27,9 +26,8 @@ IoM 已经发布 v0.0.1, 这个版本离我们最初的 v0.0.1 设计目标还�
 
 目前提供了 IoM 的[设计文档](https://chainreactors.github.io/wiki/IoM/design)与[用户手册](https://chainreactors.github.io/wiki/IoM/manual) ,可以在[这里](https://github.com/chainreactors/malice-network)体验到 IoM 的 v0.0.4
 
-### Chain2 mapping
+### Chain2 [mapping](https://chainreactors.github.io/wiki/mapping)
 
-[mapping](mapping) _预计在 2024 年内发布_
 
 ASM 是 chainreactor 的初衷, gogo/spray/zombie 之类的工具实际上都是为了这个目标设计的. 通过极高的拓展性与细粒度实现的完全可控的攻击面管理引擎.
 
@@ -37,7 +35,7 @@ ASM 是 chainreactor 的初衷, gogo/spray/zombie 之类的工具实际上都是
 
 目前提供了 mapping 的[设计文档](https://chainreactors.github.io/wiki/mapping/design), 可以在这里看到 mapping 作为红队向的协作式攻击面引擎的设计理念.
 
-### Chain3 rem
+### Chain3 [rem](https://chainreactors.github.io/wiki/rem)
 
 rem 是全场景的流量/代理工具. 能用来解决绝大多数场景的代理与转发需求, 也用来打通 mapping 与 IoM, 让 mapping 能通过 rem+IoM 接入内网. rem 提供了在传输层, 应用层, 加密层, 混淆层的拓展接口. 可以被轻松修改为自定义特征, 也将是 IoM 在流量端的能力拓展.
 
