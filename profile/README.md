@@ -15,7 +15,7 @@
 ### Chain1 [IoM](https://chainreactors.github.io/wiki/IoM)
 
 
-IoM(`Internal of Malice`) 的定位是下一代 C2 框架, 同样以高度模块化与可拓展性为核心设计理念. 基于这个理念去实现插件化的 OPSEC, 插件化的社区生态, 插件化的一切.
+IoM(`Internet of Malice`) 的定位是下一代 C2 框架, 同样以高度模块化与可拓展性为核心设计理念. 基于这个理念去实现插件化的 OPSEC, 插件化的社区生态, 插件化的一切.
 
 更重要的是, IoM 将结合 C2 与 webshell, 将同一套插件化的基建共享给完全不同的后渗透场景.
 
