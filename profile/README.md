@@ -37,7 +37,7 @@ ChainReactors 专注于 **AI × Offensive Security**，用 AI 重写进攻性安
 为赛博空间表达与智能体协作构建开放协议。
 
 - **cstx / [libcstx](https://github.com/chainreactors/libcstx)** — 赛博空间拓扑表达协议及实现库。
-  统一安全工具的数据表达，连接资产、关系与环境状态。
+  以 Rust 内核承载拓扑与知识图谱，提供版本管理与图论算法，统一赛博空间的数据表达与计算。
 - **[ioa](https://github.com/chainreactors/ioa)** — Internet of Agent。
   语义优先的通信协议，连接人类与 Agent 协作。
 
