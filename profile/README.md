@@ -43,9 +43,6 @@ ChainReactors 专注于 **AI × Offensive Security**，用 AI 重写进攻性安
 
 ---
 
-**cstx 表达环境，ioa 连接协作，Cyber Harness 组织推理与行动，
-IoM、REM、Mapping 提供进攻能力。**
-
 开放协作，技术中立。
 
 [Website](https://www.chainreactors.ai/) ·
