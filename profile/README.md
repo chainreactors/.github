@@ -32,16 +32,18 @@ ChainReactors 专注于 **AI × Offensive Security**，用 AI 重写进攻性安
   自然语言驱动的意图工程。  
   腾讯比赛第七名，即将开源，敬请期待。
 
-### Cyberspace Representation
+### Open Standards & Protocols
 
-- **cstx** — 赛博空间拓扑表达协议
+为赛博空间表达与智能体协作构建开放协议。
 
-  定义资产、连接与关系的统一表达，
-  为工具协作、攻击路径推理与攻防模拟提供共同语言。
+- **cstx / [libcstx](https://github.com/chainreactors/libcstx)** — 赛博空间拓扑表达协议及实现库。
+  统一安全工具的数据表达，连接资产、关系与环境状态。
+- **[ioa](https://github.com/chainreactors/ioa)** — Internet of Agent。
+  语义优先的通信协议，连接人类与 Agent 协作。
 
 ---
 
-**cstx 表达环境，Cyber Harness 组织推理与行动，
+**cstx 表达环境，ioa 连接协作，Cyber Harness 组织推理与行动，
 IoM、REM、Mapping 提供进攻能力。**
 
 开放协作，技术中立。
