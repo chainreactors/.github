@@ -16,9 +16,9 @@ ChainReactors 专注于 **AI × Offensive Security**，用 AI 重写进攻性安
 
 将已有的渗透基础设施转为 AI 可理解、可调用、可组合的行动能力。
 
-- **IoM** — 后渗透与执行控制
-- **REM** — 网络连接与流量控制
-- **Mapping** — 攻击面发现与管理
+- **[IoM](https://github.com/chainreactors/malice-network)** — 后渗透与执行控制
+- **[REM](https://github.com/chainreactors/rem)** — 网络连接与流量控制
+- **[Mapping](https://chainreactors.github.io/wiki/mapping)** — 攻击面发现与管理
 
 ### Cyber Harness
 
