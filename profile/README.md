@@ -2,7 +2,7 @@
 
 ## AI-native Cyber
 
-ChainReactors 专注于 **AI × Offensive Security**，用 AI 重写进攻性安全。
+ChainReactors 专注于 **AI × Offensive Security**，用 AI 重构进攻性安全。
 
 从 **Offensive Infrastructure** 演进到 **AI-native Cyber Harness**，
 我们将红队工程积累转化为 AI 原生的攻防能力，连接模型、工具与赛博空间。
